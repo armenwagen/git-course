@@ -1,1 +1,1 @@
-document.body.innerHTML = "<h1>Hello</h1>";
+cosnole.log("test 2");
